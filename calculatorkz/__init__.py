@@ -2,7 +2,7 @@
 
 __version__ = "0.1.0"
 
-# from calculatorkz.calculatorkz import calculator
+from calculatorkz.calculatorkz import Calculator
 
-# if __name__ == "__main__":
-#     calculator()
+if __name__ == "__main__":
+    calculator()
