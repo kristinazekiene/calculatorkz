@@ -1,5 +1,5 @@
 from math import exp, log
-from calculatorkz.calculatorkz import Calculator
+from calculatorkzv1.calculatorkzv1 import Calculator
 
 import unittest
 

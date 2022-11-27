@@ -1,12 +1,12 @@
-# calculatorkz
+# calculatorkzv1
 
-`calculatorkz` is the package of automated calculator and performing simple arritmetics operations like <i>addition, subtraction, multiplication, division and n-root</i>.
+`calculatorkzv1` is the package of automated calculator and performing simple arritmetics operations like <i>addition, subtraction, multiplication, division and n-root</i>.
 
 
 ## Installation
 
 ```sh
-pip install calculatorkz
+pip install calculatorkzv1
 ```
 
 ## How to use
@@ -16,7 +16,7 @@ pip install calculatorkz
 Call automated calculator and package functions:
 
 ```python
->>> from calculatorkz import Calculator
+>>> from calculatorkzv1.calculatorkzv1 import Calculator, calculator
 >>> calculator()
 Select operation: 
  0. Exit 
